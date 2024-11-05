@@ -1,0 +1,75 @@
+/* extra Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .carousel_h2 {
+        text-align: center;
+        font-size: 17px;
+    }
+    .text {
+        text-align: center;
+        font-size: 13px;
+    }
+    
+    .list-inline {
+        font-size: 20px;
+        text-align: center;
+    }
+    .parent {
+        margin-left: 42px;
+        width: 180px;
+        text-align: center;
+    }
+
+    .child1 {
+        position: absolute;
+        top: -4px;
+        right: 287px;
+        font-size: 24px;
+    }
+    p {
+        text-align: center;
+        font-size: 11px;
+        margin: 0;
+    }
+    .parent1 {
+        text-align: center;
+    }
+   
+    .small {
+        right: -80px;
+    }
+    .yellowbtn {
+        width: 75px;
+    }
+    .footer_1{
+        padding: 20px 0;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px)and (max-width: 767.98px) {
+
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px)  {
+
+}
+
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px){
+
+ }
+
+
+  /* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {  
+
+}
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+
+ }
